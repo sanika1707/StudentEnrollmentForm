@@ -40,7 +40,9 @@ For any issues or requests, please file an issue on [GitHub](https://github.com/
 ## Screenshots
 
 ### Student Enrollment Form
+![student_enrollnment_form](https://github.com/user-attachments/assets/a9c9a814-fefb-4d48-bec7-75c532b1edb6)
 
-![Student Enrollment Form](images/student_enrollment_form.png)
+
+
 
 
