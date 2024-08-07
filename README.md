@@ -27,7 +27,7 @@ This web form is designed to manage student records efficiently. Built with HTML
 3. **Reset Form**: Use the "Reset" button to clear all fields.
 
 ## Project Status
-This project is currently active with the initial release. Future updates will include improved features and additional functionality.
+The Student Enrollment Form project is mostly complete and meets the design and functional requirements. The form successfully captures and validates user input, and the control buttons (Save, Update, Reset) work as intended. However, there is an issue with data posting to the database, resulting in a network error. Further investigation is needed to resolve this issue.
 
 ## References
 - [JSONPowerDB Documentation](https://www.jsonpowerdb.org/)
