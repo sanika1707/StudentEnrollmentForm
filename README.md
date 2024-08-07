@@ -37,3 +37,10 @@ The Student Enrollment Form project is mostly complete and meets the design and 
 ## Additional Information
 For any issues or requests, please file an issue on [GitHub](https://github.com/sanika1707/StudentEnrollmentForm).
 
+## Screenshots
+
+### Student Enrollment Form
+
+![Student Enrollment Form](images/student_enrollment_form.png)
+
+
